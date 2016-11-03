@@ -1,0 +1,1 @@
+# Poner symfony dentro de esta carpeta
